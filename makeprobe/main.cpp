@@ -7,7 +7,7 @@ int main()
 {
     
    funkcja();
-
+// lalalalalalal
 	
     return 0;
 }
