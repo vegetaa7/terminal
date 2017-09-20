@@ -8,6 +8,7 @@ int main()
     
    funkcja();
 // lalalalalalal
+//druga zmiana
 	
     return 0;
 }
